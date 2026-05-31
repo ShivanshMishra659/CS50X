@@ -70,9 +70,9 @@ If you're **stuck and frustrated** after genuinely trying:
 
 | # | Week | Topic | Language | Status |
 |:-:|------|-------|:--------:|:------:|
-| 0 | Week 0 | Scratch | Scratch | 🔄 |
-| 1 | Week 1 | C | C | 🔄 |
-| 2 | Week 2 | Arrays | C | 🔄 |
+| 0 | Week 0 | Scratch | Scratch | ✅ |
+| 1 | Week 1 | C | C | ✅ |
+| 2 | Week 2 | Arrays | C | ✅ |
 | 3 | Week 3 | Algorithms | C | 🔄 |
 | 4 | Week 4 | Memory | C | 🔄 |
 | 5 | Week 5 | Data Structures | C | 🔄 |
